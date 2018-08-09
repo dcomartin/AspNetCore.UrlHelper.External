@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.UrlHelper.External", "AspNetCore.UrlHelper.External.csproj", "{D304DA7F-CF1D-4046-B5BB-62A8398AECDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D304DA7F-CF1D-4046-B5BB-62A8398AECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D304DA7F-CF1D-4046-B5BB-62A8398AECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D304DA7F-CF1D-4046-B5BB-62A8398AECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D304DA7F-CF1D-4046-B5BB-62A8398AECDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
